@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandtrock!
 - 👀 I’m interested in coding and music.
-- 🌱 I’m currently learning micro front-ends.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any cool tech.
 - 📫 How to reach me: @brandtrock
 
